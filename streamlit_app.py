@@ -31,3 +31,6 @@ dados_municipio = dados[filtro]
 with coluna_tabela:
 
     dados_municipio
+
+with coluna_filtro:
+    
